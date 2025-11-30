@@ -1,0 +1,1123 @@
+GeoFips,States,LineCode,Industry , Total ,Total in USD Trillions
+0,United States *,1, All industry total ,"117,192,051",117.19
+0,United States *,2,   Private industries ,"104,006,686",104.01
+0,United States *,3,"       Agriculture, forestry, fishing and hunting ","1,078,745",1.08
+0,United States *,6,"       Mining, quarrying, and oil and gas extraction ","1,616,992",1.62
+0,United States *,10,       Utilities ,"1,817,431",1.82
+0,United States *,11,       Construction ,"5,221,603",5.22
+0,United States *,12,       Manufacturing ,"11,522,906",11.52
+0,United States *,34,       Wholesale trade ,"6,825,153",6.83
+0,United States *,35,       Retail trade ,"7,396,156",7.4
+0,United States *,36,       Transportation and warehousing ,"3,949,206",3.95
+0,United States *,45,       Information ,"6,370,771",6.37
+0,United States *,51,       Finance and insurance ,"8,916,622",8.92
+0,United States *,56,       Real estate and rental and leasing ,"16,209,597",16.21
+0,United States *,60,"       Professional, scientific, and technical services ","9,420,274",9.42
+0,United States *,64,       Management of companies and enterprises ,"2,177,333",2.18
+0,United States *,65,       Administrative and support and waste management and remediation services ,"3,646,808",3.65
+0,United States *,69,       Educational services ,"1,339,141",1.34
+0,United States *,70,       Health care and social assistance ,"8,837,523",8.84
+0,United States *,76,"       Arts, entertainment, and recreation ","1,307,060",1.31
+0,United States *,79,       Accommodation and food services ,"3,841,424",3.84
+0,United States *,82,       Other services (except government and government enterprises) ,"2,511,938",2.51
+0,United States *,83,   Government and government enterprises ,"13,185,364",13.19
+1000,Alabama,1, All industry total ,"1,301,380",1.3
+1000,Alabama,2,   Private industries ,"1,105,186",1.11
+1000,Alabama,3,"       Agriculture, forestry, fishing and hunting ","15,443",0.02
+1000,Alabama,6,"       Mining, quarrying, and oil and gas extraction ","10,340",0.01
+1000,Alabama,10,       Utilities ,"33,696",0.03
+1000,Alabama,11,       Construction ,"63,603",0.06
+1000,Alabama,12,       Manufacturing ,"199,987",0.2
+1000,Alabama,34,       Wholesale trade ,"77,148",0.08
+1000,Alabama,35,       Retail trade ,"96,385",0.1
+1000,Alabama,36,       Transportation and warehousing ,"36,090",0.04
+1000,Alabama,45,       Information ,"26,962",0.03
+1000,Alabama,51,       Finance and insurance ,"76,903",0.08
+1000,Alabama,56,       Real estate and rental and leasing ,"160,689",0.16
+1000,Alabama,60,"       Professional, scientific, and technical services ","85,640",0.09
+1000,Alabama,64,       Management of companies and enterprises ,"11,164",0.01
+1000,Alabama,65,       Administrative and support and waste management and remediation services ,"34,744",0.03
+1000,Alabama,69,       Educational services ,"6,200",0.01
+1000,Alabama,70,       Health care and social assistance ,"92,833",0.09
+1000,Alabama,76,"       Arts, entertainment, and recreation ","5,613",0.01
+1000,Alabama,79,       Accommodation and food services ,"39,325",0.04
+1000,Alabama,82,       Other services (except government and government enterprises) ,"32,421",0.03
+1000,Alabama,83,   Government and government enterprises ,"196,195",0.2
+2000,Alaska,1, All industry total ,"286,269",0.29
+2000,Alaska,2,   Private industries ,"233,614",0.23
+2000,Alaska,3,"       Agriculture, forestry, fishing and hunting ","2,215",0
+2000,Alaska,6,"       Mining, quarrying, and oil and gas extraction ","39,116",0.04
+2000,Alaska,10,       Utilities ,"4,877",0
+2000,Alaska,11,       Construction ,"14,922",0.01
+2000,Alaska,12,       Manufacturing ,"6,595",0.01
+2000,Alaska,34,       Wholesale trade ,"6,290",0.01
+2000,Alaska,35,       Retail trade ,"14,497",0.01
+2000,Alaska,36,       Transportation and warehousing ,"41,158",0.04
+2000,Alaska,45,       Information ,"6,483",0.01
+2000,Alaska,51,       Finance and insurance ,"5,836",0.01
+2000,Alaska,56,       Real estate and rental and leasing ,"31,315",0.03
+2000,Alaska,60,"       Professional, scientific, and technical services ","10,207",0.01
+2000,Alaska,64,       Management of companies and enterprises ,"2,067",0
+2000,Alaska,65,       Administrative and support and waste management and remediation services ,"5,667",0.01
+2000,Alaska,69,       Educational services ,962,0
+2000,Alaska,70,       Health care and social assistance ,"23,992",0.02
+2000,Alaska,76,"       Arts, entertainment, and recreation ","1,998",0
+2000,Alaska,79,       Accommodation and food services ,"10,098",0.01
+2000,Alaska,82,       Other services (except government and government enterprises) ,"5,319",0.01
+2000,Alaska,83,   Government and government enterprises ,"52,655",0.05
+4000,Arizona,1, All industry total ,"2,280,354",2.28
+4000,Arizona,2,   Private industries ,"2,048,595",2.05
+4000,Arizona,3,"       Agriculture, forestry, fishing and hunting ","11,113",0.01
+4000,Arizona,6,"       Mining, quarrying, and oil and gas extraction ","25,568",0.03
+4000,Arizona,10,       Utilities ,"42,155",0.04
+4000,Arizona,11,       Construction ,"146,838",0.15
+4000,Arizona,12,       Manufacturing ,"184,676",0.18
+4000,Arizona,34,       Wholesale trade ,"122,518",0.12
+4000,Arizona,35,       Retail trade ,"168,904",0.17
+4000,Arizona,36,       Transportation and warehousing ,"76,441",0.08
+4000,Arizona,45,       Information ,"77,827",0.08
+4000,Arizona,51,       Finance and insurance ,"172,394",0.17
+4000,Arizona,56,       Real estate and rental and leasing ,"396,682",0.4
+4000,Arizona,60,"       Professional, scientific, and technical services ","127,570",0.13
+4000,Arizona,64,       Management of companies and enterprises ,"30,877",0.03
+4000,Arizona,65,       Administrative and support and waste management and remediation services ,"98,511",0.1
+4000,Arizona,69,       Educational services ,"23,400",0.02
+4000,Arizona,70,       Health care and social assistance ,"191,699",0.19
+4000,Arizona,76,"       Arts, entertainment, and recreation ","23,007",0.02
+4000,Arizona,79,       Accommodation and food services ,"83,266",0.08
+4000,Arizona,82,       Other services (except government and government enterprises) ,"45,149",0.05
+4000,Arizona,83,   Government and government enterprises ,"231,759",0.23
+5000,Arkansas,1, All industry total ,"753,358",0.75
+5000,Arkansas,2,   Private industries ,"670,254",0.67
+5000,Arkansas,3,"       Agriculture, forestry, fishing and hunting ","23,923",0.02
+5000,Arkansas,6,"       Mining, quarrying, and oil and gas extraction ","3,554",0
+5000,Arkansas,10,       Utilities ,"19,153",0.02
+5000,Arkansas,11,       Construction ,"33,825",0.03
+5000,Arkansas,12,       Manufacturing ,"101,314",0.1
+5000,Arkansas,34,       Wholesale trade ,"59,609",0.06
+5000,Arkansas,35,       Retail trade ,"60,515",0.06
+5000,Arkansas,36,       Transportation and warehousing ,"32,759",0.03
+5000,Arkansas,45,       Information ,"14,462",0.01
+5000,Arkansas,51,       Finance and insurance ,"36,904",0.04
+5000,Arkansas,56,       Real estate and rental and leasing ,"83,826",0.08
+5000,Arkansas,60,"       Professional, scientific, and technical services ","29,206",0.03
+5000,Arkansas,64,       Management of companies and enterprises ,"34,957",0.03
+5000,Arkansas,65,       Administrative and support and waste management and remediation services ,"23,014",0.02
+5000,Arkansas,69,       Educational services ,"4,384",0
+5000,Arkansas,70,       Health care and social assistance ,"63,891",0.06
+5000,Arkansas,76,"       Arts, entertainment, and recreation ","4,699",0
+5000,Arkansas,79,       Accommodation and food services ,"22,585",0.02
+5000,Arkansas,82,       Other services (except government and government enterprises) ,"17,676",0.02
+5000,Arkansas,83,   Government and government enterprises ,"83,104",0.08
+6000,California,1, All industry total ,"16,192,433",16.19
+6000,California,2,   Private industries ,"14,446,312",14.45
+6000,California,3,"       Agriculture, forestry, fishing and hunting ","211,485",0.21
+6000,California,6,"       Mining, quarrying, and oil and gas extraction ","40,377",0.04
+6000,California,10,       Utilities ,"235,415",0.24
+6000,California,11,       Construction ,"625,558",0.63
+6000,California,12,       Manufacturing ,"1,527,588",1.53
+6000,California,34,       Wholesale trade ,"834,647",0.83
+6000,California,35,       Retail trade ,"935,737",0.94
+6000,California,36,       Transportation and warehousing ,"527,180",0.53
+6000,California,45,       Information ,"1,765,354",1.77
+6000,California,51,       Finance and insurance ,"693,560",0.69
+6000,California,56,       Real estate and rental and leasing ,"2,303,020",2.3
+6000,California,60,"       Professional, scientific, and technical services ","1,584,474",1.58
+6000,California,64,       Management of companies and enterprises ,"337,050",0.34
+6000,California,65,       Administrative and support and waste management and remediation services ,"479,667",0.48
+6000,California,69,       Educational services ,"170,757",0.17
+6000,California,70,       Health care and social assistance ,"1,126,675",1.13
+6000,California,76,"       Arts, entertainment, and recreation ","230,411",0.23
+6000,California,79,       Accommodation and food services ,"506,629",0.51
+6000,California,82,       Other services (except government and government enterprises) ,"310,730",0.31
+6000,California,83,   Government and government enterprises ,"1,746,121",1.75
+8000,Colorado,1, All industry total ,"2,230,532",2.23
+8000,Colorado,2,   Private industries ,"1,977,931",1.98
+8000,Colorado,3,"       Agriculture, forestry, fishing and hunting ","11,335",0.01
+8000,Colorado,6,"       Mining, quarrying, and oil and gas extraction ","68,876",0.07
+8000,Colorado,10,       Utilities ,"25,568",0.03
+8000,Colorado,11,       Construction ,"130,477",0.13
+8000,Colorado,12,       Manufacturing ,"120,232",0.12
+8000,Colorado,34,       Wholesale trade ,"121,157",0.12
+8000,Colorado,35,       Retail trade ,"130,729",0.13
+8000,Colorado,36,       Transportation and warehousing ,"78,042",0.08
+8000,Colorado,45,       Information ,"132,544",0.13
+8000,Colorado,51,       Finance and insurance ,"124,366",0.12
+8000,Colorado,56,       Real estate and rental and leasing ,"353,854",0.35
+8000,Colorado,60,"       Professional, scientific, and technical services ","245,480",0.25
+8000,Colorado,64,       Management of companies and enterprises ,"43,438",0.04
+8000,Colorado,65,       Administrative and support and waste management and remediation services ,"64,499",0.06
+8000,Colorado,69,       Educational services ,"18,265",0.02
+8000,Colorado,70,       Health care and social assistance ,"136,797",0.14
+8000,Colorado,76,"       Arts, entertainment, and recreation ","34,709",0.03
+8000,Colorado,79,       Accommodation and food services ,"85,389",0.09
+8000,Colorado,82,       Other services (except government and government enterprises) ,"52,173",0.05
+8000,Colorado,83,   Government and government enterprises ,"252,601",0.25
+9000,Connecticut,1, All industry total ,"1,427,340",1.43
+9000,Connecticut,2,   Private industries ,"1,297,709",1.3
+9000,Connecticut,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+9000,Connecticut,6,"       Mining, quarrying, and oil and gas extraction ","1,016",0
+9000,Connecticut,10,       Utilities ,"22,332",0.02
+9000,Connecticut,11,       Construction ,"42,157",0.04
+9000,Connecticut,12,       Manufacturing ,"166,427",0.17
+9000,Connecticut,34,       Wholesale trade ,"78,128",0.08
+9000,Connecticut,35,       Retail trade ,"86,870",0.09
+9000,Connecticut,36,       Transportation and warehousing ,"32,665",0.03
+9000,Connecticut,45,       Information , -   , -   
+9000,Connecticut,51,       Finance and insurance ,"184,437",0.18
+9000,Connecticut,56,       Real estate and rental and leasing ,"189,539",0.19
+9000,Connecticut,60,"       Professional, scientific, and technical services ","105,277",0.11
+9000,Connecticut,64,       Management of companies and enterprises ,"32,363",0.03
+9000,Connecticut,65,       Administrative and support and waste management and remediation services ,"41,680",0.04
+9000,Connecticut,69,       Educational services ,"35,092",0.04
+9000,Connecticut,70,       Health care and social assistance ,"123,746",0.12
+9000,Connecticut,76,"       Arts, entertainment, and recreation ","16,129",0.02
+9000,Connecticut,79,       Accommodation and food services ,"36,516",0.04
+9000,Connecticut,82,       Other services (except government and government enterprises) ,"27,997",0.03
+9000,Connecticut,83,   Government and government enterprises ,"129,631",0.13
+10000,Delaware,1, All industry total ,"443,887",0.44
+10000,Delaware,2,   Private industries ,"405,273",0.41
+10000,Delaware,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+10000,Delaware,6,"       Mining, quarrying, and oil and gas extraction ", -   , -   
+10000,Delaware,10,       Utilities ,"6,283",0.01
+10000,Delaware,11,       Construction ,"15,837",0.02
+10000,Delaware,12,       Manufacturing ,"32,143",0.03
+10000,Delaware,34,       Wholesale trade ,"12,218",0.01
+10000,Delaware,35,       Retail trade ,"18,715",0.02
+10000,Delaware,36,       Transportation and warehousing ,"9,209",0.01
+10000,Delaware,45,       Information ,"5,582",0.01
+10000,Delaware,51,       Finance and insurance ,"111,773",0.11
+10000,Delaware,56,       Real estate and rental and leasing ,"89,407",0.09
+10000,Delaware,60,"       Professional, scientific, and technical services ","27,295",0.03
+10000,Delaware,64,       Management of companies and enterprises ,"8,097",0.01
+10000,Delaware,65,       Administrative and support and waste management and remediation services ,"11,374",0.01
+10000,Delaware,69,       Educational services ,"2,152",0
+10000,Delaware,70,       Health care and social assistance ,"32,590",0.03
+10000,Delaware,76,"       Arts, entertainment, and recreation ","2,465",0
+10000,Delaware,79,       Accommodation and food services ,"10,068",0.01
+10000,Delaware,82,       Other services (except government and government enterprises) ,"6,019",0.01
+10000,Delaware,83,   Government and government enterprises ,"38,614",0.04
+12000,Florida,1, All industry total ,"6,906,840",6.91
+12000,Florida,2,   Private industries ,"6,282,986",6.28
+12000,Florida,3,"       Agriculture, forestry, fishing and hunting ","32,621",0.03
+12000,Florida,6,"       Mining, quarrying, and oil and gas extraction ","7,022",0.01
+12000,Florida,10,       Utilities ,"115,065",0.12
+12000,Florida,11,       Construction ,"381,422",0.38
+12000,Florida,12,       Manufacturing ,"334,004",0.33
+12000,Florida,34,       Wholesale trade ,"450,201",0.45
+12000,Florida,35,       Retail trade ,"530,047",0.53
+12000,Florida,36,       Transportation and warehousing ,"249,071",0.25
+12000,Florida,45,       Information ,"235,187",0.24
+12000,Florida,51,       Finance and insurance ,"406,455",0.41
+12000,Florida,56,       Real estate and rental and leasing ,"1,419,625",1.42
+12000,Florida,60,"       Professional, scientific, and technical services ","553,535",0.55
+12000,Florida,64,       Management of companies and enterprises ,"105,483",0.11
+12000,Florida,65,       Administrative and support and waste management and remediation services ,"272,795",0.27
+12000,Florida,69,       Educational services ,"60,091",0.06
+12000,Florida,70,       Health care and social assistance ,"545,894",0.55
+12000,Florida,76,"       Arts, entertainment, and recreation ","108,004",0.11
+12000,Florida,79,       Accommodation and food services ,"312,281",0.31
+12000,Florida,82,       Other services (except government and government enterprises) ,"164,184",0.16
+12000,Florida,83,   Government and government enterprises ,"623,854",0.62
+13000,Georgia,1, All industry total ,"3,526,033",3.53
+13000,Georgia,2,   Private industries ,"3,165,230",3.17
+13000,Georgia,3,"       Agriculture, forestry, fishing and hunting ","26,918",0.03
+13000,Georgia,6,"       Mining, quarrying, and oil and gas extraction ","7,800",0.01
+13000,Georgia,10,       Utilities ,"56,290",0.06
+13000,Georgia,11,       Construction ,"183,675",0.18
+13000,Georgia,12,       Manufacturing ,"336,734",0.34
+13000,Georgia,34,       Wholesale trade ,"256,320",0.26
+13000,Georgia,35,       Retail trade ,"223,304",0.22
+13000,Georgia,36,       Transportation and warehousing ,"148,251",0.15
+13000,Georgia,45,       Information ,"212,704",0.21
+13000,Georgia,51,       Finance and insurance ,"285,077",0.29
+13000,Georgia,56,       Real estate and rental and leasing ,"508,577",0.51
+13000,Georgia,60,"       Professional, scientific, and technical services ","254,913",0.25
+13000,Georgia,64,       Management of companies and enterprises ,"72,274",0.07
+13000,Georgia,65,       Administrative and support and waste management and remediation services ,"120,088",0.12
+13000,Georgia,69,       Educational services ,"37,752",0.04
+13000,Georgia,70,       Health care and social assistance ,"240,007",0.24
+13000,Georgia,76,"       Arts, entertainment, and recreation ","27,045",0.03
+13000,Georgia,79,       Accommodation and food services ,"103,471",0.1
+13000,Georgia,82,       Other services (except government and government enterprises) ,"64,032",0.06
+13000,Georgia,83,   Government and government enterprises ,"360,803",0.36
+15000,Hawaii,1, All industry total ,"470,510",0.47
+15000,Hawaii,2,   Private industries ,"379,245",0.38
+15000,Hawaii,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+15000,Hawaii,6,"       Mining, quarrying, and oil and gas extraction ",392,0
+15000,Hawaii,10,       Utilities ,"9,445",0.01
+15000,Hawaii,11,       Construction ,"27,836",0.03
+15000,Hawaii,12,       Manufacturing , -   , -   
+15000,Hawaii,34,       Wholesale trade ,"14,264",0.01
+15000,Hawaii,35,       Retail trade ,"36,233",0.04
+15000,Hawaii,36,       Transportation and warehousing ,"25,113",0.03
+15000,Hawaii,45,       Information ,"10,956",0.01
+15000,Hawaii,51,       Finance and insurance ,"19,705",0.02
+15000,Hawaii,56,       Real estate and rental and leasing ,"80,253",0.08
+15000,Hawaii,60,"       Professional, scientific, and technical services ","21,426",0.02
+15000,Hawaii,64,       Management of companies and enterprises ,"5,392",0.01
+15000,Hawaii,65,       Administrative and support and waste management and remediation services ,"13,971",0.01
+15000,Hawaii,69,       Educational services ,"4,980",0
+15000,Hawaii,70,       Health care and social assistance ,"35,126",0.04
+15000,Hawaii,76,"       Arts, entertainment, and recreation ","6,014",0.01
+15000,Hawaii,79,       Accommodation and food services ,"46,354",0.05
+15000,Hawaii,82,       Other services (except government and government enterprises) ,"11,539",0.01
+15000,Hawaii,83,   Government and government enterprises ,"91,265",0.09
+16000,Idaho,1, All industry total ,"516,073",0.52
+16000,Idaho,2,   Private industries ,"461,373",0.46
+16000,Idaho,3,"       Agriculture, forestry, fishing and hunting ","20,613",0.02
+16000,Idaho,6,"       Mining, quarrying, and oil and gas extraction ", -   , -   
+16000,Idaho,10,       Utilities ,"7,191",0.01
+16000,Idaho,11,       Construction ,"33,910",0.03
+16000,Idaho,12,       Manufacturing ,"44,572",0.04
+16000,Idaho,34,       Wholesale trade ,"35,927",0.04
+16000,Idaho,35,       Retail trade ,"41,443",0.04
+16000,Idaho,36,       Transportation and warehousing ,"15,211",0.02
+16000,Idaho,45,       Information , -   , -   
+16000,Idaho,51,       Finance and insurance ,"24,604",0.02
+16000,Idaho,56,       Real estate and rental and leasing ,"78,961",0.08
+16000,Idaho,60,"       Professional, scientific, and technical services ","33,568",0.03
+16000,Idaho,64,       Management of companies and enterprises ,"6,413",0.01
+16000,Idaho,65,       Administrative and support and waste management and remediation services ,"18,435",0.02
+16000,Idaho,69,       Educational services ,"4,451",0
+16000,Idaho,70,       Health care and social assistance ,"44,358",0.04
+16000,Idaho,76,"       Arts, entertainment, and recreation ","4,342",0
+16000,Idaho,79,       Accommodation and food services ,"17,814",0.02
+16000,Idaho,82,       Other services (except government and government enterprises) ,"10,354",0.01
+16000,Idaho,83,   Government and government enterprises ,"54,699",0.05
+17000,Illinois,1, All industry total ,"4,592,424",4.59
+17000,Illinois,2,   Private industries ,"4,173,243",4.17
+17000,Illinois,3,"       Agriculture, forestry, fishing and hunting ","44,253",0.04
+17000,Illinois,6,"       Mining, quarrying, and oil and gas extraction ","8,923",0.01
+17000,Illinois,10,       Utilities ,"83,159",0.08
+17000,Illinois,11,       Construction ,"164,251",0.16
+17000,Illinois,12,       Manufacturing ,"533,705",0.53
+17000,Illinois,34,       Wholesale trade ,"361,981",0.36
+17000,Illinois,35,       Retail trade ,"266,048",0.27
+17000,Illinois,36,       Transportation and warehousing ,"198,939",0.2
+17000,Illinois,45,       Information ,"184,476",0.18
+17000,Illinois,51,       Finance and insurance ,"381,436",0.38
+17000,Illinois,56,       Real estate and rental and leasing ,"594,990",0.59
+17000,Illinois,60,"       Professional, scientific, and technical services ","398,115",0.4
+17000,Illinois,64,       Management of companies and enterprises ,"68,770",0.07
+17000,Illinois,65,       Administrative and support and waste management and remediation services ,"162,278",0.16
+17000,Illinois,69,       Educational services ,"64,688",0.06
+17000,Illinois,70,       Health care and social assistance ,"344,788",0.34
+17000,Illinois,76,"       Arts, entertainment, and recreation ","55,461",0.06
+17000,Illinois,79,       Accommodation and food services ,"151,971",0.15
+17000,Illinois,82,       Other services (except government and government enterprises) ,"105,010",0.11
+17000,Illinois,83,   Government and government enterprises ,"419,182",0.42
+18000,Indiana,1, All industry total ,"2,078,066",2.08
+18000,Indiana,2,   Private industries ,"1,901,439",1.9
+18000,Indiana,3,"       Agriculture, forestry, fishing and hunting ","28,757",0.03
+18000,Indiana,6,"       Mining, quarrying, and oil and gas extraction ","7,877",0.01
+18000,Indiana,10,       Utilities ,"33,911",0.03
+18000,Indiana,11,       Construction ,"107,395",0.11
+18000,Indiana,12,       Manufacturing ,"503,642",0.5
+18000,Indiana,34,       Wholesale trade ,"125,248",0.13
+18000,Indiana,35,       Retail trade ,"129,613",0.13
+18000,Indiana,36,       Transportation and warehousing ,"80,318",0.08
+18000,Indiana,45,       Information ,"31,503",0.03
+18000,Indiana,51,       Finance and insurance ,"113,049",0.11
+18000,Indiana,56,       Real estate and rental and leasing ,"220,408",0.22
+18000,Indiana,60,"       Professional, scientific, and technical services ","110,117",0.11
+18000,Indiana,64,       Management of companies and enterprises ,"23,904",0.02
+18000,Indiana,65,       Administrative and support and waste management and remediation services ,"60,540",0.06
+18000,Indiana,69,       Educational services ,"20,209",0.02
+18000,Indiana,70,       Health care and social assistance ,"175,799",0.18
+18000,Indiana,76,"       Arts, entertainment, and recreation ","23,157",0.02
+18000,Indiana,79,       Accommodation and food services ,"58,346",0.06
+18000,Indiana,82,       Other services (except government and government enterprises) ,"47,647",0.05
+18000,Indiana,83,   Government and government enterprises ,"176,627",0.18
+19000,Iowa,1, All industry total ,"1,063,178",1.06
+19000,Iowa,2,   Private industries ,"955,276",0.96
+19000,Iowa,3,"       Agriculture, forestry, fishing and hunting ","60,109",0.06
+19000,Iowa,6,"       Mining, quarrying, and oil and gas extraction ","1,735",0
+19000,Iowa,10,       Utilities ,"15,929",0.02
+19000,Iowa,11,       Construction ,"48,048",0.05
+19000,Iowa,12,       Manufacturing ,"177,393",0.18
+19000,Iowa,34,       Wholesale trade ,"63,775",0.06
+19000,Iowa,35,       Retail trade ,"63,337",0.06
+19000,Iowa,36,       Transportation and warehousing ,"34,257",0.03
+19000,Iowa,45,       Information ,"26,244",0.03
+19000,Iowa,51,       Finance and insurance ,"158,020",0.16
+19000,Iowa,56,       Real estate and rental and leasing ,"101,081",0.1
+19000,Iowa,60,"       Professional, scientific, and technical services ","38,243",0.04
+19000,Iowa,64,       Management of companies and enterprises ,"16,218",0.02
+19000,Iowa,65,       Administrative and support and waste management and remediation services ,"22,182",0.02
+19000,Iowa,69,       Educational services ,"8,006",0.01
+19000,Iowa,70,       Health care and social assistance ,"65,589",0.07
+19000,Iowa,76,"       Arts, entertainment, and recreation ","8,926",0.01
+19000,Iowa,79,       Accommodation and food services ,"24,387",0.02
+19000,Iowa,82,       Other services (except government and government enterprises) ,"21,797",0.02
+19000,Iowa,83,   Government and government enterprises ,"107,902",0.11
+20000,Kansas,1, All industry total ,"922,088",0.92
+20000,Kansas,2,   Private industries ,"812,532",0.81
+20000,Kansas,3,"       Agriculture, forestry, fishing and hunting ","29,476",0.03
+20000,Kansas,6,"       Mining, quarrying, and oil and gas extraction ","5,017",0.01
+20000,Kansas,10,       Utilities ,"15,245",0.02
+20000,Kansas,11,       Construction ,"40,643",0.04
+20000,Kansas,12,       Manufacturing ,"145,603",0.15
+20000,Kansas,34,       Wholesale trade ,"57,898",0.06
+20000,Kansas,35,       Retail trade ,"60,087",0.06
+20000,Kansas,36,       Transportation and warehousing ,"37,419",0.04
+20000,Kansas,45,       Information ,"22,250",0.02
+20000,Kansas,51,       Finance and insurance ,"48,783",0.05
+20000,Kansas,56,       Real estate and rental and leasing ,"119,910",0.12
+20000,Kansas,60,"       Professional, scientific, and technical services ","54,357",0.05
+20000,Kansas,64,       Management of companies and enterprises ,"16,931",0.02
+20000,Kansas,65,       Administrative and support and waste management and remediation services ,"28,534",0.03
+20000,Kansas,69,       Educational services ,"5,413",0.01
+20000,Kansas,70,       Health care and social assistance ,"72,699",0.07
+20000,Kansas,76,"       Arts, entertainment, and recreation ","4,949",0
+20000,Kansas,79,       Accommodation and food services ,"25,317",0.03
+20000,Kansas,82,       Other services (except government and government enterprises) ,"22,001",0.02
+20000,Kansas,83,   Government and government enterprises ,"109,556",0.11
+21000,Kentucky,1, All industry total ,"1,181,501",1.18
+21000,Kentucky,2,   Private industries ,"1,043,321",1.04
+21000,Kentucky,3,"       Agriculture, forestry, fishing and hunting ","16,435",0.02
+21000,Kentucky,6,"       Mining, quarrying, and oil and gas extraction ","10,889",0.01
+21000,Kentucky,10,       Utilities ,"19,656",0.02
+21000,Kentucky,11,       Construction ,"49,690",0.05
+21000,Kentucky,12,       Manufacturing ,"195,870",0.2
+21000,Kentucky,34,       Wholesale trade ,"87,199",0.09
+21000,Kentucky,35,       Retail trade ,"80,741",0.08
+21000,Kentucky,36,       Transportation and warehousing ,"63,042",0.06
+21000,Kentucky,45,       Information ,"24,803",0.02
+21000,Kentucky,51,       Finance and insurance ,"64,432",0.06
+21000,Kentucky,56,       Real estate and rental and leasing ,"136,385",0.14
+21000,Kentucky,60,"       Professional, scientific, and technical services ","52,560",0.05
+21000,Kentucky,64,       Management of companies and enterprises ,"14,024",0.01
+21000,Kentucky,65,       Administrative and support and waste management and remediation services ,"36,731",0.04
+21000,Kentucky,69,       Educational services ,"6,974",0.01
+21000,Kentucky,70,       Health care and social assistance ,"107,824",0.11
+21000,Kentucky,76,"       Arts, entertainment, and recreation ","7,485",0.01
+21000,Kentucky,79,       Accommodation and food services ,"41,734",0.04
+21000,Kentucky,82,       Other services (except government and government enterprises) ,"26,847",0.03
+21000,Kentucky,83,   Government and government enterprises ,"138,181",0.14
+22000,Louisiana,1, All industry total ,"1,316,691",1.32
+22000,Louisiana,2,   Private industries ,"1,176,521",1.18
+22000,Louisiana,3,"       Agriculture, forestry, fishing and hunting ","9,612",0.01
+22000,Louisiana,6,"       Mining, quarrying, and oil and gas extraction ","46,305",0.05
+22000,Louisiana,10,       Utilities ,"24,981",0.02
+22000,Louisiana,11,       Construction ,"83,417",0.08
+22000,Louisiana,12,       Manufacturing ,"238,712",0.24
+22000,Louisiana,34,       Wholesale trade ,"68,511",0.07
+22000,Louisiana,35,       Retail trade ,"92,369",0.09
+22000,Louisiana,36,       Transportation and warehousing ,"52,683",0.05
+22000,Louisiana,45,       Information ,"22,182",0.02
+22000,Louisiana,51,       Finance and insurance ,"61,746",0.06
+22000,Louisiana,56,       Real estate and rental and leasing ,"152,608",0.15
+22000,Louisiana,60,"       Professional, scientific, and technical services ","64,094",0.06
+22000,Louisiana,64,       Management of companies and enterprises ,"13,396",0.01
+22000,Louisiana,65,       Administrative and support and waste management and remediation services ,"37,586",0.04
+22000,Louisiana,69,       Educational services ,"13,598",0.01
+22000,Louisiana,70,       Health care and social assistance ,"105,960",0.11
+22000,Louisiana,76,"       Arts, entertainment, and recreation ","14,575",0.01
+22000,Louisiana,79,       Accommodation and food services ,"45,636",0.05
+22000,Louisiana,82,       Other services (except government and government enterprises) ,"28,552",0.03
+22000,Louisiana,83,   Government and government enterprises ,"140,170",0.14
+23000,Maine,1, All industry total ,"396,696",0.4
+23000,Maine,2,   Private industries ,"350,985",0.35
+23000,Maine,3,"       Agriculture, forestry, fishing and hunting ","4,688",0
+23000,Maine,6,"       Mining, quarrying, and oil and gas extraction ", -   , -   
+23000,Maine,10,       Utilities ,"6,115",0.01
+23000,Maine,11,       Construction ,"14,808",0.01
+23000,Maine,12,       Manufacturing ,"34,125",0.03
+23000,Maine,34,       Wholesale trade ,"18,521",0.02
+23000,Maine,35,       Retail trade ,"35,779",0.04
+23000,Maine,36,       Transportation and warehousing ,"7,756",0.01
+23000,Maine,45,       Information , -   , -   
+23000,Maine,51,       Finance and insurance ,"26,869",0.03
+23000,Maine,56,       Real estate and rental and leasing ,"64,206",0.06
+23000,Maine,60,"       Professional, scientific, and technical services ","25,345",0.03
+23000,Maine,64,       Management of companies and enterprises ,"11,029",0.01
+23000,Maine,65,       Administrative and support and waste management and remediation services ,"11,072",0.01
+23000,Maine,69,       Educational services ,"5,848",0.01
+23000,Maine,70,       Health care and social assistance ,"43,314",0.04
+23000,Maine,76,"       Arts, entertainment, and recreation ","4,645",0
+23000,Maine,79,       Accommodation and food services ,"19,648",0.02
+23000,Maine,82,       Other services (except government and government enterprises) ,"8,801",0.01
+23000,Maine,83,   Government and government enterprises ,"45,712",0.05
+24000,Maryland,1, All industry total ,"2,184,113",2.18
+24000,Maryland,2,   Private industries ,"1,733,377",1.73
+24000,Maryland,3,"       Agriculture, forestry, fishing and hunting ","5,900",0.01
+24000,Maryland,6,"       Mining, quarrying, and oil and gas extraction ","1,429",0
+24000,Maryland,10,       Utilities ,"31,934",0.03
+24000,Maryland,11,       Construction ,"128,936",0.13
+24000,Maryland,12,       Manufacturing ,"114,319",0.11
+24000,Maryland,34,       Wholesale trade ,"95,717",0.1
+24000,Maryland,35,       Retail trade ,"124,788",0.12
+24000,Maryland,36,       Transportation and warehousing ,"50,141",0.05
+24000,Maryland,45,       Information ,"92,575",0.09
+24000,Maryland,51,       Finance and insurance ,"94,197",0.09
+24000,Maryland,56,       Real estate and rental and leasing ,"330,553",0.33
+24000,Maryland,60,"       Professional, scientific, and technical services ","225,361",0.23
+24000,Maryland,64,       Management of companies and enterprises ,"22,964",0.02
+24000,Maryland,65,       Administrative and support and waste management and remediation services ,"70,174",0.07
+24000,Maryland,69,       Educational services ,"32,341",0.03
+24000,Maryland,70,       Health care and social assistance ,"168,379",0.17
+24000,Maryland,76,"       Arts, entertainment, and recreation ","26,749",0.03
+24000,Maryland,79,       Accommodation and food services ,"65,197",0.07
+24000,Maryland,82,       Other services (except government and government enterprises) ,"51,725",0.05
+24000,Maryland,83,   Government and government enterprises ,"450,736",0.45
+25000,Massachusetts,1, All industry total ,"3,114,094",3.11
+25000,Massachusetts,2,   Private industries ,"2,845,287",2.85
+25000,Massachusetts,3,"       Agriculture, forestry, fishing and hunting ","3,620",0
+25000,Massachusetts,6,"       Mining, quarrying, and oil and gas extraction ","1,132",0
+25000,Massachusetts,10,       Utilities ,"47,974",0.05
+25000,Massachusetts,11,       Construction ,"119,560",0.12
+25000,Massachusetts,12,       Manufacturing ,"246,424",0.25
+25000,Massachusetts,34,       Wholesale trade ,"145,586",0.15
+25000,Massachusetts,35,       Retail trade ,"141,730",0.14
+25000,Massachusetts,36,       Transportation and warehousing ,"64,459",0.06
+25000,Massachusetts,45,       Information ,"193,035",0.19
+25000,Massachusetts,51,       Finance and insurance ,"259,222",0.26
+25000,Massachusetts,56,       Real estate and rental and leasing ,"442,171",0.44
+25000,Massachusetts,60,"       Professional, scientific, and technical services ","452,759",0.45
+25000,Massachusetts,64,       Management of companies and enterprises ,"65,764",0.07
+25000,Massachusetts,65,       Administrative and support and waste management and remediation services ,"90,088",0.09
+25000,Massachusetts,69,       Educational services ,"89,186",0.09
+25000,Massachusetts,70,       Health care and social assistance ,"287,559",0.29
+25000,Massachusetts,76,"       Arts, entertainment, and recreation ","33,004",0.03
+25000,Massachusetts,79,       Accommodation and food services ,"100,410",0.1
+25000,Massachusetts,82,       Other services (except government and government enterprises) ,"61,607",0.06
+25000,Massachusetts,83,   Government and government enterprises ,"268,806",0.27
+26000,Michigan,1, All industry total ,"2,809,868",2.81
+26000,Michigan,2,   Private industries ,"2,536,214",2.54
+26000,Michigan,3,"       Agriculture, forestry, fishing and hunting ","21,862",0.02
+26000,Michigan,6,"       Mining, quarrying, and oil and gas extraction ","7,238",0.01
+26000,Michigan,10,       Utilities ,"48,982",0.05
+26000,Michigan,11,       Construction ,"116,108",0.12
+26000,Michigan,12,       Manufacturing ,"456,272",0.46
+26000,Michigan,34,       Wholesale trade ,"186,875",0.19
+26000,Michigan,35,       Retail trade ,"197,732",0.2
+26000,Michigan,36,       Transportation and warehousing ,"85,829",0.09
+26000,Michigan,45,       Information ,"74,668",0.07
+26000,Michigan,51,       Finance and insurance ,"145,317",0.15
+26000,Michigan,56,       Real estate and rental and leasing ,"389,089",0.39
+26000,Michigan,60,"       Professional, scientific, and technical services ","228,393",0.23
+26000,Michigan,64,       Management of companies and enterprises ,"52,832",0.05
+26000,Michigan,65,       Administrative and support and waste management and remediation services ,"89,708",0.09
+26000,Michigan,69,       Educational services ,"21,015",0.02
+26000,Michigan,70,       Health care and social assistance ,"235,895",0.24
+26000,Michigan,76,"       Arts, entertainment, and recreation ","25,274",0.03
+26000,Michigan,79,       Accommodation and food services ,"84,629",0.08
+26000,Michigan,82,       Other services (except government and government enterprises) ,"68,495",0.07
+26000,Michigan,83,   Government and government enterprises ,"273,654",0.27
+27000,Minnesota,1, All industry total ,"2,030,751",2.03
+27000,Minnesota,2,   Private industries ,"1,841,149",1.84
+27000,Minnesota,3,"       Agriculture, forestry, fishing and hunting ","36,778",0.04
+27000,Minnesota,6,"       Mining, quarrying, and oil and gas extraction ","10,174",0.01
+27000,Minnesota,10,       Utilities ,"30,396",0.03
+27000,Minnesota,11,       Construction ,"100,601",0.1
+27000,Minnesota,12,       Manufacturing ,"240,518",0.24
+27000,Minnesota,34,       Wholesale trade ,"147,971",0.15
+27000,Minnesota,35,       Retail trade ,"121,373",0.12
+27000,Minnesota,36,       Transportation and warehousing ,"65,279",0.07
+27000,Minnesota,45,       Information ,"63,766",0.06
+27000,Minnesota,51,       Finance and insurance ,"180,095",0.18
+27000,Minnesota,56,       Real estate and rental and leasing ,"258,836",0.26
+27000,Minnesota,60,"       Professional, scientific, and technical services ","139,450",0.14
+27000,Minnesota,64,       Management of companies and enterprises ,"67,362",0.07
+27000,Minnesota,65,       Administrative and support and waste management and remediation services ,"47,633",0.05
+27000,Minnesota,69,       Educational services ,"18,270",0.02
+27000,Minnesota,70,       Health care and social assistance ,"195,869",0.2
+27000,Minnesota,76,"       Arts, entertainment, and recreation ","19,518",0.02
+27000,Minnesota,79,       Accommodation and food services ,"52,817",0.05
+27000,Minnesota,82,       Other services (except government and government enterprises) ,"44,444",0.04
+27000,Minnesota,83,   Government and government enterprises ,"189,602",0.19
+28000,Mississippi,1, All industry total ,"632,770",0.63
+28000,Mississippi,2,   Private industries ,"534,442",0.53
+28000,Mississippi,3,"       Agriculture, forestry, fishing and hunting ","15,595",0.02
+28000,Mississippi,6,"       Mining, quarrying, and oil and gas extraction ","3,487",0
+28000,Mississippi,10,       Utilities ,"17,083",0.02
+28000,Mississippi,11,       Construction ,"23,203",0.02
+28000,Mississippi,12,       Manufacturing ,"97,080",0.1
+28000,Mississippi,34,       Wholesale trade ,"32,583",0.03
+28000,Mississippi,35,       Retail trade ,"54,736",0.05
+28000,Mississippi,36,       Transportation and warehousing ,"25,303",0.03
+28000,Mississippi,45,       Information ,"10,445",0.01
+28000,Mississippi,51,       Finance and insurance ,"31,464",0.03
+28000,Mississippi,56,       Real estate and rental and leasing ,"80,209",0.08
+28000,Mississippi,60,"       Professional, scientific, and technical services ","22,789",0.02
+28000,Mississippi,64,       Management of companies and enterprises ,"6,629",0.01
+28000,Mississippi,65,       Administrative and support and waste management and remediation services ,"17,700",0.02
+28000,Mississippi,69,       Educational services ,"3,955",0
+28000,Mississippi,70,       Health care and social assistance ,"47,691",0.05
+28000,Mississippi,76,"       Arts, entertainment, and recreation ","3,700",0
+28000,Mississippi,79,       Accommodation and food services ,"26,202",0.03
+28000,Mississippi,82,       Other services (except government and government enterprises) ,"14,590",0.01
+28000,Mississippi,83,   Government and government enterprises ,"98,327",0.1
+29000,Missouri,1, All industry total ,"1,794,855",1.79
+29000,Missouri,2,   Private industries ,"1,607,858",1.61
+29000,Missouri,3,"       Agriculture, forestry, fishing and hunting ","24,580",0.02
+29000,Missouri,6,"       Mining, quarrying, and oil and gas extraction ","4,556",0
+29000,Missouri,10,       Utilities ,"26,878",0.03
+29000,Missouri,11,       Construction ,"86,570",0.09
+29000,Missouri,12,       Manufacturing ,"206,916",0.21
+29000,Missouri,34,       Wholesale trade ,"122,648",0.12
+29000,Missouri,35,       Retail trade ,"127,063",0.13
+29000,Missouri,36,       Transportation and warehousing ,"63,198",0.06
+29000,Missouri,45,       Information ,"60,087",0.06
+29000,Missouri,51,       Finance and insurance ,"130,974",0.13
+29000,Missouri,56,       Real estate and rental and leasing ,"221,187",0.22
+29000,Missouri,60,"       Professional, scientific, and technical services ","125,498",0.13
+29000,Missouri,64,       Management of companies and enterprises ,"41,888",0.04
+29000,Missouri,65,       Administrative and support and waste management and remediation services ,"54,463",0.05
+29000,Missouri,69,       Educational services ,"21,003",0.02
+29000,Missouri,70,       Health care and social assistance ,"168,198",0.17
+29000,Missouri,76,"       Arts, entertainment, and recreation ","22,168",0.02
+29000,Missouri,79,       Accommodation and food services ,"56,623",0.06
+29000,Missouri,82,       Other services (except government and government enterprises) ,"43,360",0.04
+29000,Missouri,83,   Government and government enterprises ,"186,997",0.19
+30000,Montana,1, All industry total ,"313,764",0.31
+30000,Montana,2,   Private industries ,"274,644",0.27
+30000,Montana,3,"       Agriculture, forestry, fishing and hunting ","9,593",0.01
+30000,Montana,6,"       Mining, quarrying, and oil and gas extraction ","10,318",0.01
+30000,Montana,10,       Utilities ,"5,574",0.01
+30000,Montana,11,       Construction ,"19,915",0.02
+30000,Montana,12,       Manufacturing ,"18,078",0.02
+30000,Montana,34,       Wholesale trade ,"17,352",0.02
+30000,Montana,35,       Retail trade ,"23,770",0.02
+30000,Montana,36,       Transportation and warehousing ,"12,836",0.01
+30000,Montana,45,       Information ,"7,686",0.01
+30000,Montana,51,       Finance and insurance ,"15,734",0.02
+30000,Montana,56,       Real estate and rental and leasing ,"46,401",0.05
+30000,Montana,60,"       Professional, scientific, and technical services ","19,852",0.02
+30000,Montana,64,       Management of companies and enterprises ,"1,324",0
+30000,Montana,65,       Administrative and support and waste management and remediation services ,"8,170",0.01
+30000,Montana,69,       Educational services ,"1,662",0
+30000,Montana,70,       Health care and social assistance ,"30,272",0.03
+30000,Montana,76,"       Arts, entertainment, and recreation ","4,036",0
+30000,Montana,79,       Accommodation and food services ,"14,797",0.01
+30000,Montana,82,       Other services (except government and government enterprises) ,"7,274",0.01
+30000,Montana,83,   Government and government enterprises ,"39,120",0.04
+31000,Nebraska,1, All industry total ,"756,971",0.76
+31000,Nebraska,2,   Private industries ,"675,485",0.68
+31000,Nebraska,3,"       Agriculture, forestry, fishing and hunting ","39,023",0.04
+31000,Nebraska,6,"       Mining, quarrying, and oil and gas extraction ","1,008",0
+31000,Nebraska,10,       Utilities ,"27,552",0.03
+31000,Nebraska,11,       Construction ,"36,310",0.04
+31000,Nebraska,12,       Manufacturing ,"81,097",0.08
+31000,Nebraska,34,       Wholesale trade ,"49,912",0.05
+31000,Nebraska,35,       Retail trade ,"42,161",0.04
+31000,Nebraska,36,       Transportation and warehousing ,"44,582",0.04
+31000,Nebraska,45,       Information ,"24,087",0.02
+31000,Nebraska,51,       Finance and insurance ,"101,482",0.1
+31000,Nebraska,56,       Real estate and rental and leasing ,"67,341",0.07
+31000,Nebraska,60,"       Professional, scientific, and technical services ","31,512",0.03
+31000,Nebraska,64,       Management of companies and enterprises ,"13,759",0.01
+31000,Nebraska,65,       Administrative and support and waste management and remediation services ,"19,776",0.02
+31000,Nebraska,69,       Educational services ,"4,707",0
+31000,Nebraska,70,       Health care and social assistance ,"54,315",0.05
+31000,Nebraska,76,"       Arts, entertainment, and recreation ","4,291",0
+31000,Nebraska,79,       Accommodation and food services ,"17,277",0.02
+31000,Nebraska,82,       Other services (except government and government enterprises) ,"15,293",0.02
+31000,Nebraska,83,   Government and government enterprises ,"81,486",0.08
+32000,Nevada,1, All industry total ,"1,076,042",1.08
+32000,Nevada,2,   Private industries ,"973,122",0.97
+32000,Nevada,3,"       Agriculture, forestry, fishing and hunting ","1,918",0
+32000,Nevada,6,"       Mining, quarrying, and oil and gas extraction ","20,684",0.02
+32000,Nevada,10,       Utilities ,"13,598",0.01
+32000,Nevada,11,       Construction ,"83,128",0.08
+32000,Nevada,12,       Manufacturing ,"45,757",0.05
+32000,Nevada,34,       Wholesale trade ,"44,442",0.04
+32000,Nevada,35,       Retail trade ,"76,248",0.08
+32000,Nevada,36,       Transportation and warehousing ,"48,436",0.05
+32000,Nevada,45,       Information ,"33,471",0.03
+32000,Nevada,51,       Finance and insurance ,"62,712",0.06
+32000,Nevada,56,       Real estate and rental and leasing ,"159,854",0.16
+32000,Nevada,60,"       Professional, scientific, and technical services ","56,098",0.06
+32000,Nevada,64,       Management of companies and enterprises ,"28,564",0.03
+32000,Nevada,65,       Administrative and support and waste management and remediation services ,"36,124",0.04
+32000,Nevada,69,       Educational services ,"5,847",0.01
+32000,Nevada,70,       Health care and social assistance ,"63,224",0.06
+32000,Nevada,76,"       Arts, entertainment, and recreation ","30,393",0.03
+32000,Nevada,79,       Accommodation and food services ,"143,628",0.14
+32000,Nevada,82,       Other services (except government and government enterprises) ,"18,995",0.02
+32000,Nevada,83,   Government and government enterprises ,"102,920",0.1
+33000,New Hampshire,1, All industry total ,"477,347",0.48
+33000,New Hampshire,2,   Private industries ,"432,817",0.43
+33000,New Hampshire,3,"       Agriculture, forestry, fishing and hunting ","1,131",0
+33000,New Hampshire,6,"       Mining, quarrying, and oil and gas extraction ","1,235",0
+33000,New Hampshire,10,       Utilities ,"6,567",0.01
+33000,New Hampshire,11,       Construction ,"16,588",0.02
+33000,New Hampshire,12,       Manufacturing ,"40,594",0.04
+33000,New Hampshire,34,       Wholesale trade ,"32,487",0.03
+33000,New Hampshire,35,       Retail trade ,"37,580",0.04
+33000,New Hampshire,36,       Transportation and warehousing ,"8,079",0.01
+33000,New Hampshire,45,       Information ,"18,814",0.02
+33000,New Hampshire,51,       Finance and insurance ,"30,144",0.03
+33000,New Hampshire,56,       Real estate and rental and leasing ,"72,579",0.07
+33000,New Hampshire,60,"       Professional, scientific, and technical services ","44,975",0.04
+33000,New Hampshire,64,       Management of companies and enterprises ,"7,910",0.01
+33000,New Hampshire,65,       Administrative and support and waste management and remediation services ,"20,558",0.02
+33000,New Hampshire,69,       Educational services ,"10,652",0.01
+33000,New Hampshire,70,       Health care and social assistance ,"43,578",0.04
+33000,New Hampshire,76,"       Arts, entertainment, and recreation ","5,971",0.01
+33000,New Hampshire,79,       Accommodation and food services ,"21,474",0.02
+33000,New Hampshire,82,       Other services (except government and government enterprises) ,"11,902",0.01
+33000,New Hampshire,83,   Government and government enterprises ,"44,530",0.04
+34000,New Jersey,1, All industry total ,"3,384,002",3.38
+34000,New Jersey,2,   Private industries ,"3,072,573",3.07
+34000,New Jersey,3,"       Agriculture, forestry, fishing and hunting ","5,476",0.01
+34000,New Jersey,6,"       Mining, quarrying, and oil and gas extraction ","3,173",0
+34000,New Jersey,10,       Utilities ,"47,776",0.05
+34000,New Jersey,11,       Construction ,"118,565",0.12
+34000,New Jersey,12,       Manufacturing ,"283,490",0.28
+34000,New Jersey,34,       Wholesale trade ,"264,151",0.26
+34000,New Jersey,35,       Retail trade ,"210,970",0.21
+34000,New Jersey,36,       Transportation and warehousing ,"132,437",0.13
+34000,New Jersey,45,       Information ,"160,127",0.16
+34000,New Jersey,51,       Finance and insurance ,"216,187",0.22
+34000,New Jersey,56,       Real estate and rental and leasing ,"546,969",0.55
+34000,New Jersey,60,"       Professional, scientific, and technical services ","332,030",0.33
+34000,New Jersey,64,       Management of companies and enterprises ,"85,481",0.09
+34000,New Jersey,65,       Administrative and support and waste management and remediation services ,"133,696",0.13
+34000,New Jersey,69,       Educational services ,"39,661",0.04
+34000,New Jersey,70,       Health care and social assistance ,"290,222",0.29
+34000,New Jersey,76,"       Arts, entertainment, and recreation ","35,151",0.04
+34000,New Jersey,79,       Accommodation and food services ,"95,470",0.1
+34000,New Jersey,82,       Other services (except government and government enterprises) ,"71,541",0.07
+34000,New Jersey,83,   Government and government enterprises ,"311,429",0.31
+35000,New Mexico,1, All industry total ,"588,339",0.59
+35000,New Mexico,2,   Private industries ,"462,940",0.46
+35000,New Mexico,3,"       Agriculture, forestry, fishing and hunting ","6,929",0.01
+35000,New Mexico,6,"       Mining, quarrying, and oil and gas extraction ","72,575",0.07
+35000,New Mexico,10,       Utilities ,"9,294",0.01
+35000,New Mexico,11,       Construction ,"25,215",0.03
+35000,New Mexico,12,       Manufacturing ,"19,097",0.02
+35000,New Mexico,34,       Wholesale trade ,"17,269",0.02
+35000,New Mexico,35,       Retail trade ,"35,243",0.04
+35000,New Mexico,36,       Transportation and warehousing ,"16,440",0.02
+35000,New Mexico,45,       Information ,"14,372",0.01
+35000,New Mexico,51,       Finance and insurance ,"20,251",0.02
+35000,New Mexico,56,       Real estate and rental and leasing ,"71,506",0.07
+35000,New Mexico,60,"       Professional, scientific, and technical services ","48,203",0.05
+35000,New Mexico,64,       Management of companies and enterprises ,"2,884",0
+35000,New Mexico,65,       Administrative and support and waste management and remediation services ,"17,799",0.02
+35000,New Mexico,69,       Educational services ,"2,978",0
+35000,New Mexico,70,       Health care and social assistance ,"41,331",0.04
+35000,New Mexico,76,"       Arts, entertainment, and recreation ","4,904",0
+35000,New Mexico,79,       Accommodation and food services ,"22,792",0.02
+35000,New Mexico,82,       Other services (except government and government enterprises) ,"13,860",0.01
+35000,New Mexico,83,   Government and government enterprises ,"125,399",0.13
+36000,New York,1, All industry total ,"9,288,556",9.29
+36000,New York,2,   Private industries ,"8,395,993",8.4
+36000,New York,3,"       Agriculture, forestry, fishing and hunting ","15,987",0.02
+36000,New York,6,"       Mining, quarrying, and oil and gas extraction ","4,814",0
+36000,New York,10,       Utilities ,"118,968",0.12
+36000,New York,11,       Construction ,"268,883",0.27
+36000,New York,12,       Manufacturing ,"373,670",0.37
+36000,New York,34,       Wholesale trade ,"358,204",0.36
+36000,New York,35,       Retail trade ,"440,919",0.44
+36000,New York,36,       Transportation and warehousing ,"209,101",0.21
+36000,New York,45,       Information ,"785,617",0.79
+36000,New York,51,       Finance and insurance ,"1,913,323",1.91
+36000,New York,56,       Real estate and rental and leasing ,"1,266,280",1.27
+36000,New York,60,"       Professional, scientific, and technical services ","807,505",0.81
+36000,New York,64,       Management of companies and enterprises ,"135,787",0.14
+36000,New York,65,       Administrative and support and waste management and remediation services ,"243,809",0.24
+36000,New York,69,       Educational services ,"178,132",0.18
+36000,New York,70,       Health care and social assistance ,"700,503",0.7
+36000,New York,76,"       Arts, entertainment, and recreation ","137,868",0.14
+36000,New York,79,       Accommodation and food services ,"266,447",0.27
+36000,New York,82,       Other services (except government and government enterprises) ,"170,177",0.17
+36000,New York,83,   Government and government enterprises ,"892,562",0.89
+37000,North Carolina,1, All industry total ,"3,376,836",3.38
+37000,North Carolina,2,   Private industries ,"2,987,204",2.99
+37000,North Carolina,3,"       Agriculture, forestry, fishing and hunting ","28,253",0.03
+37000,North Carolina,6,"       Mining, quarrying, and oil and gas extraction ","6,276",0.01
+37000,North Carolina,10,       Utilities ,"58,242",0.06
+37000,North Carolina,11,       Construction ,"164,852",0.16
+37000,North Carolina,12,       Manufacturing ,"415,535",0.42
+37000,North Carolina,34,       Wholesale trade ,"197,092",0.2
+37000,North Carolina,35,       Retail trade ,"216,530",0.22
+37000,North Carolina,36,       Transportation and warehousing ,"87,540",0.09
+37000,North Carolina,45,       Information ,"134,029",0.13
+37000,North Carolina,51,       Finance and insurance ,"331,820",0.33
+37000,North Carolina,56,       Real estate and rental and leasing ,"432,349",0.43
+37000,North Carolina,60,"       Professional, scientific, and technical services ","247,162",0.25
+37000,North Carolina,64,       Management of companies and enterprises ,"69,094",0.07
+37000,North Carolina,65,       Administrative and support and waste management and remediation services ,"122,322",0.12
+37000,North Carolina,69,       Educational services ,"43,230",0.04
+37000,North Carolina,70,       Health care and social assistance ,"226,344",0.23
+37000,North Carolina,76,"       Arts, entertainment, and recreation ","30,092",0.03
+37000,North Carolina,79,       Accommodation and food services ,"102,981",0.1
+37000,North Carolina,82,       Other services (except government and government enterprises) ,"73,462",0.07
+37000,North Carolina,83,   Government and government enterprises ,"389,632",0.39
+38000,North Dakota,1, All industry total ,"320,233",0.32
+38000,North Dakota,2,   Private industries ,"286,539",0.29
+38000,North Dakota,3,"       Agriculture, forestry, fishing and hunting ","20,594",0.02
+38000,North Dakota,6,"       Mining, quarrying, and oil and gas extraction ","48,519",0.05
+38000,North Dakota,10,       Utilities ,"6,934",0.01
+38000,North Dakota,11,       Construction ,"16,950",0.02
+38000,North Dakota,12,       Manufacturing ,"27,610",0.03
+38000,North Dakota,34,       Wholesale trade ,"23,698",0.02
+38000,North Dakota,35,       Retail trade ,"19,000",0.02
+38000,North Dakota,36,       Transportation and warehousing ,"14,036",0.01
+38000,North Dakota,45,       Information ,"6,955",0.01
+38000,North Dakota,51,       Finance and insurance ,"14,758",0.01
+38000,North Dakota,56,       Real estate and rental and leasing ,"28,975",0.03
+38000,North Dakota,60,"       Professional, scientific, and technical services ","9,834",0.01
+38000,North Dakota,64,       Management of companies and enterprises ,"3,119",0
+38000,North Dakota,65,       Administrative and support and waste management and remediation services ,"4,901",0
+38000,North Dakota,69,       Educational services ,"1,053",0
+38000,North Dakota,70,       Health care and social assistance ,"24,577",0.02
+38000,North Dakota,76,"       Arts, entertainment, and recreation ","1,452",0
+38000,North Dakota,79,       Accommodation and food services ,"7,806",0.01
+38000,North Dakota,82,       Other services (except government and government enterprises) ,"5,766",0.01
+38000,North Dakota,83,   Government and government enterprises ,"33,694",0.03
+39000,Ohio,1, All industry total ,"3,692,562",3.69
+39000,Ohio,2,   Private industries ,"3,317,371",3.32
+39000,Ohio,3,"       Agriculture, forestry, fishing and hunting ","26,028",0.03
+39000,Ohio,6,"       Mining, quarrying, and oil and gas extraction ","24,712",0.02
+39000,Ohio,10,       Utilities ,"55,762",0.06
+39000,Ohio,11,       Construction ,"152,941",0.15
+39000,Ohio,12,       Manufacturing ,"526,382",0.53
+39000,Ohio,34,       Wholesale trade ,"227,001",0.23
+39000,Ohio,35,       Retail trade ,"237,851",0.24
+39000,Ohio,36,       Transportation and warehousing ,"122,145",0.12
+39000,Ohio,45,       Information ,"85,711",0.09
+39000,Ohio,51,       Finance and insurance ,"414,389",0.41
+39000,Ohio,56,       Real estate and rental and leasing ,"447,297",0.45
+39000,Ohio,60,"       Professional, scientific, and technical services ","207,671",0.21
+39000,Ohio,64,       Management of companies and enterprises ,"112,002",0.11
+39000,Ohio,65,       Administrative and support and waste management and remediation services ,"110,372",0.11
+39000,Ohio,69,       Educational services ,"30,407",0.03
+39000,Ohio,70,       Health care and social assistance ,"320,199",0.32
+39000,Ohio,76,"       Arts, entertainment, and recreation ","35,773",0.04
+39000,Ohio,79,       Accommodation and food services ,"100,698",0.1
+39000,Ohio,82,       Other services (except government and government enterprises) ,"80,032",0.08
+39000,Ohio,83,   Government and government enterprises ,"375,191",0.38
+40000,Oklahoma,1, All industry total ,"1,054,781",1.05
+40000,Oklahoma,2,   Private industries ,"888,045",0.89
+40000,Oklahoma,3,"       Agriculture, forestry, fishing and hunting ","16,460",0.02
+40000,Oklahoma,6,"       Mining, quarrying, and oil and gas extraction ","85,620",0.09
+40000,Oklahoma,10,       Utilities ,"20,813",0.02
+40000,Oklahoma,11,       Construction ,"41,776",0.04
+40000,Oklahoma,12,       Manufacturing ,"94,151",0.09
+40000,Oklahoma,34,       Wholesale trade ,"54,473",0.05
+40000,Oklahoma,35,       Retail trade ,"74,507",0.07
+40000,Oklahoma,36,       Transportation and warehousing ,"60,079",0.06
+40000,Oklahoma,45,       Information ,"22,779",0.02
+40000,Oklahoma,51,       Finance and insurance ,"45,751",0.05
+40000,Oklahoma,56,       Real estate and rental and leasing ,"117,420",0.12
+40000,Oklahoma,60,"       Professional, scientific, and technical services ","47,728",0.05
+40000,Oklahoma,64,       Management of companies and enterprises ,"17,051",0.02
+40000,Oklahoma,65,       Administrative and support and waste management and remediation services ,"35,490",0.04
+40000,Oklahoma,69,       Educational services ,"6,655",0.01
+40000,Oklahoma,70,       Health care and social assistance ,"82,875",0.08
+40000,Oklahoma,76,"       Arts, entertainment, and recreation ","7,420",0.01
+40000,Oklahoma,79,       Accommodation and food services ,"32,967",0.03
+40000,Oklahoma,82,       Other services (except government and government enterprises) ,"24,032",0.02
+40000,Oklahoma,83,   Government and government enterprises ,"166,736",0.17
+41000,Oregon,1, All industry total ,"1,321,001",1.32
+41000,Oregon,2,   Private industries ,"1,154,118",1.15
+41000,Oregon,3,"       Agriculture, forestry, fishing and hunting ","23,215",0.02
+41000,Oregon,6,"       Mining, quarrying, and oil and gas extraction ","1,639",0
+41000,Oregon,10,       Utilities ,"19,407",0.02
+41000,Oregon,11,       Construction ,"67,577",0.07
+41000,Oregon,12,       Manufacturing ,"146,136",0.15
+41000,Oregon,34,       Wholesale trade ,"71,798",0.07
+41000,Oregon,35,       Retail trade ,"79,455",0.08
+41000,Oregon,36,       Transportation and warehousing ,"40,246",0.04
+41000,Oregon,45,       Information ,"61,134",0.06
+41000,Oregon,51,       Finance and insurance ,"60,865",0.06
+41000,Oregon,56,       Real estate and rental and leasing ,"197,427",0.2
+41000,Oregon,60,"       Professional, scientific, and technical services ","83,565",0.08
+41000,Oregon,64,       Management of companies and enterprises ,"39,950",0.04
+41000,Oregon,65,       Administrative and support and waste management and remediation services ,"38,023",0.04
+41000,Oregon,69,       Educational services ,"10,364",0.01
+41000,Oregon,70,       Health care and social assistance ,"123,886",0.12
+41000,Oregon,76,"       Arts, entertainment, and recreation ","12,493",0.01
+41000,Oregon,79,       Accommodation and food services ,"44,796",0.04
+41000,Oregon,82,       Other services (except government and government enterprises) ,"32,139",0.03
+41000,Oregon,83,   Government and government enterprises ,"166,883",0.17
+42000,Pennsylvania,1, All industry total ,"4,031,496",4.03
+42000,Pennsylvania,2,   Private industries ,"3,683,651",3.68
+42000,Pennsylvania,3,"       Agriculture, forestry, fishing and hunting ","19,170",0.02
+42000,Pennsylvania,6,"       Mining, quarrying, and oil and gas extraction ","56,649",0.06
+42000,Pennsylvania,10,       Utilities ,"60,818",0.06
+42000,Pennsylvania,11,       Construction ,"164,759",0.16
+42000,Pennsylvania,12,       Manufacturing ,"431,225",0.43
+42000,Pennsylvania,34,       Wholesale trade ,"233,236",0.23
+42000,Pennsylvania,35,       Retail trade ,"253,306",0.25
+42000,Pennsylvania,36,       Transportation and warehousing ,"156,263",0.16
+42000,Pennsylvania,45,       Information ,"166,136",0.17
+42000,Pennsylvania,51,       Finance and insurance ,"288,565",0.29
+42000,Pennsylvania,56,       Real estate and rental and leasing ,"518,988",0.52
+42000,Pennsylvania,60,"       Professional, scientific, and technical services ","328,243",0.33
+42000,Pennsylvania,64,       Management of companies and enterprises ,"128,530",0.13
+42000,Pennsylvania,65,       Administrative and support and waste management and remediation services ,"107,669",0.11
+42000,Pennsylvania,69,       Educational services ,"96,654",0.1
+42000,Pennsylvania,70,       Health care and social assistance ,"422,996",0.42
+42000,Pennsylvania,76,"       Arts, entertainment, and recreation ","48,923",0.05
+42000,Pennsylvania,79,       Accommodation and food services ,"106,585",0.11
+42000,Pennsylvania,82,       Other services (except government and government enterprises) ,"94,938",0.09
+42000,Pennsylvania,83,   Government and government enterprises ,"347,844",0.35
+44000,Rhode Island,1, All industry total ,"321,525",0.32
+44000,Rhode Island,2,   Private industries ,"281,289",0.28
+44000,Rhode Island,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+44000,Rhode Island,6,"       Mining, quarrying, and oil and gas extraction ", -   , -   
+44000,Rhode Island,10,       Utilities ,"5,696",0.01
+44000,Rhode Island,11,       Construction ,"13,087",0.01
+44000,Rhode Island,12,       Manufacturing ,"21,857",0.02
+44000,Rhode Island,34,       Wholesale trade ,"16,630",0.02
+44000,Rhode Island,35,       Retail trade ,"21,272",0.02
+44000,Rhode Island,36,       Transportation and warehousing ,"5,837",0.01
+44000,Rhode Island,45,       Information ,"7,553",0.01
+44000,Rhode Island,51,       Finance and insurance ,"29,533",0.03
+44000,Rhode Island,56,       Real estate and rental and leasing ,"48,936",0.05
+44000,Rhode Island,60,"       Professional, scientific, and technical services ","22,558",0.02
+44000,Rhode Island,64,       Management of companies and enterprises ,"7,626",0.01
+44000,Rhode Island,65,       Administrative and support and waste management and remediation services ,"10,923",0.01
+44000,Rhode Island,69,       Educational services ,"9,946",0.01
+44000,Rhode Island,70,       Health care and social assistance ,"33,357",0.03
+44000,Rhode Island,76,"       Arts, entertainment, and recreation ","3,567",0
+44000,Rhode Island,79,       Accommodation and food services ,"14,607",0.01
+44000,Rhode Island,82,       Other services (except government and government enterprises) ,"7,233",0.01
+44000,Rhode Island,83,   Government and government enterprises ,"40,235",0.04
+45000,South Carolina,1, All industry total ,"1,428,298",1.43
+45000,South Carolina,2,   Private industries ,"1,242,924",1.24
+45000,South Carolina,3,"       Agriculture, forestry, fishing and hunting ","8,012",0.01
+45000,South Carolina,6,"       Mining, quarrying, and oil and gas extraction ","3,727",0
+45000,South Carolina,10,       Utilities ,"26,994",0.03
+45000,South Carolina,11,       Construction ,"77,656",0.08
+45000,South Carolina,12,       Manufacturing ,"191,187",0.19
+45000,South Carolina,34,       Wholesale trade ,"87,693",0.09
+45000,South Carolina,35,       Retail trade ,"113,575",0.11
+45000,South Carolina,36,       Transportation and warehousing ,"36,009",0.04
+45000,South Carolina,45,       Information ,"36,908",0.04
+45000,South Carolina,51,       Finance and insurance ,"69,696",0.07
+45000,South Carolina,56,       Real estate and rental and leasing ,"226,783",0.23
+45000,South Carolina,60,"       Professional, scientific, and technical services ","89,460",0.09
+45000,South Carolina,64,       Management of companies and enterprises ,"14,314",0.01
+45000,South Carolina,65,       Administrative and support and waste management and remediation services ,"50,765",0.05
+45000,South Carolina,69,       Educational services ,"9,801",0.01
+45000,South Carolina,70,       Health care and social assistance ,"91,221",0.09
+45000,South Carolina,76,"       Arts, entertainment, and recreation ","10,326",0.01
+45000,South Carolina,79,       Accommodation and food services ,"64,918",0.06
+45000,South Carolina,82,       Other services (except government and government enterprises) ,"33,880",0.03
+45000,South Carolina,83,   Government and government enterprises ,"185,373",0.19
+46000,South Dakota,1, All industry total ,"307,183",0.31
+46000,South Dakota,2,   Private industries ,"274,839",0.27
+46000,South Dakota,3,"       Agriculture, forestry, fishing and hunting ","24,741",0.02
+46000,South Dakota,6,"       Mining, quarrying, and oil and gas extraction ",812,0
+46000,South Dakota,10,       Utilities ,"4,932",0
+46000,South Dakota,11,       Construction ,"14,171",0.01
+46000,South Dakota,12,       Manufacturing ,"21,974",0.02
+46000,South Dakota,34,       Wholesale trade ,"20,870",0.02
+46000,South Dakota,35,       Retail trade ,"22,973",0.02
+46000,South Dakota,36,       Transportation and warehousing ,"7,020",0.01
+46000,South Dakota,45,       Information ,"6,505",0.01
+46000,South Dakota,51,       Finance and insurance ,"48,410",0.05
+46000,South Dakota,56,       Real estate and rental and leasing ,"29,914",0.03
+46000,South Dakota,60,"       Professional, scientific, and technical services ","11,844",0.01
+46000,South Dakota,64,       Management of companies and enterprises ,"3,520",0
+46000,South Dakota,65,       Administrative and support and waste management and remediation services ,"4,989",0
+46000,South Dakota,69,       Educational services ,"1,648",0
+46000,South Dakota,70,       Health care and social assistance ,"29,442",0.03
+46000,South Dakota,76,"       Arts, entertainment, and recreation ","2,177",0
+46000,South Dakota,79,       Accommodation and food services ,"12,009",0.01
+46000,South Dakota,82,       Other services (except government and government enterprises) ,"6,890",0.01
+46000,South Dakota,83,   Government and government enterprises ,"32,344",0.03
+47000,Tennessee,1, All industry total ,"2,244,805",2.24
+47000,Tennessee,2,   Private industries ,"2,032,845",2.03
+47000,Tennessee,3,"       Agriculture, forestry, fishing and hunting ","9,974",0.01
+47000,Tennessee,6,"       Mining, quarrying, and oil and gas extraction ","5,871",0.01
+47000,Tennessee,10,       Utilities ,"25,414",0.03
+47000,Tennessee,11,       Construction ,"96,587",0.1
+47000,Tennessee,12,       Manufacturing ,"273,410",0.27
+47000,Tennessee,34,       Wholesale trade ,"148,629",0.15
+47000,Tennessee,35,       Retail trade ,"175,201",0.18
+47000,Tennessee,36,       Transportation and warehousing ,"107,820",0.11
+47000,Tennessee,45,       Information ,"82,263",0.08
+47000,Tennessee,51,       Finance and insurance ,"126,257",0.13
+47000,Tennessee,56,       Real estate and rental and leasing ,"279,278",0.28
+47000,Tennessee,60,"       Professional, scientific, and technical services ","142,961",0.14
+47000,Tennessee,64,       Management of companies and enterprises ,"38,156",0.04
+47000,Tennessee,65,       Administrative and support and waste management and remediation services ,"81,696",0.08
+47000,Tennessee,69,       Educational services ,"22,704",0.02
+47000,Tennessee,70,       Health care and social assistance ,"207,747",0.21
+47000,Tennessee,76,"       Arts, entertainment, and recreation ","52,617",0.05
+47000,Tennessee,79,       Accommodation and food services ,"99,459",0.1
+47000,Tennessee,82,       Other services (except government and government enterprises) ,"56,802",0.06
+47000,Tennessee,83,   Government and government enterprises ,"211,961",0.21
+48000,Texas,1, All industry total ,"11,079,065",11.08
+48000,Texas,2,   Private industries ,"10,087,330",10.09
+48000,Texas,3,"       Agriculture, forestry, fishing and hunting ","69,834",0.07
+48000,Texas,6,"       Mining, quarrying, and oil and gas extraction ","829,488",0.83
+48000,Texas,10,       Utilities ,"172,916",0.17
+48000,Texas,11,       Construction ,"547,308",0.55
+48000,Texas,12,       Manufacturing ,"1,323,095",1.32
+48000,Texas,34,       Wholesale trade ,"860,891",0.86
+48000,Texas,35,       Retail trade ,"674,473",0.67
+48000,Texas,36,       Transportation and warehousing ,"420,043",0.42
+48000,Texas,45,       Information ,"425,968",0.43
+48000,Texas,51,       Finance and insurance ,"675,344",0.68
+48000,Texas,56,       Real estate and rental and leasing ,"1,425,075",1.43
+48000,Texas,60,"       Professional, scientific, and technical services ","835,011",0.84
+48000,Texas,64,       Management of companies and enterprises ,"156,514",0.16
+48000,Texas,65,       Administrative and support and waste management and remediation services ,"367,654",0.37
+48000,Texas,69,       Educational services ,"77,538",0.08
+48000,Texas,70,       Health care and social assistance ,"627,895",0.63
+48000,Texas,76,"       Arts, entertainment, and recreation ","74,262",0.07
+48000,Texas,79,       Accommodation and food services ,"312,126",0.31
+48000,Texas,82,       Other services (except government and government enterprises) ,"211,898",0.21
+48000,Texas,83,   Government and government enterprises ,"991,735",0.99
+49000,Utah,1, All industry total ,"1,197,885",1.2
+49000,Utah,2,   Private industries ,"1,072,429",1.07
+49000,Utah,3,"       Agriculture, forestry, fishing and hunting ","5,316",0.01
+49000,Utah,6,"       Mining, quarrying, and oil and gas extraction ","18,752",0.02
+49000,Utah,10,       Utilities ,"27,232",0.03
+49000,Utah,11,       Construction ,"95,104",0.1
+49000,Utah,12,       Manufacturing ,"116,241",0.12
+49000,Utah,34,       Wholesale trade ,"58,713",0.06
+49000,Utah,35,       Retail trade ,"87,741",0.09
+49000,Utah,36,       Transportation and warehousing ,"39,506",0.04
+49000,Utah,45,       Information ,"58,002",0.06
+49000,Utah,51,       Finance and insurance ,"106,505",0.11
+49000,Utah,56,       Real estate and rental and leasing ,"166,669",0.17
+49000,Utah,60,"       Professional, scientific, and technical services ","90,924",0.09
+49000,Utah,64,       Management of companies and enterprises ,"13,445",0.01
+49000,Utah,65,       Administrative and support and waste management and remediation services ,"33,266",0.03
+49000,Utah,69,       Educational services ,"15,614",0.02
+49000,Utah,70,       Health care and social assistance ,"66,736",0.07
+49000,Utah,76,"       Arts, entertainment, and recreation ","10,943",0.01
+49000,Utah,79,       Accommodation and food services ,"32,388",0.03
+49000,Utah,82,       Other services (except government and government enterprises) ,"29,333",0.03
+49000,Utah,83,   Government and government enterprises ,"125,456",0.13
+50000,Vermont,1, All industry total ,"185,104",0.19
+50000,Vermont,2,   Private industries ,"160,779",0.16
+50000,Vermont,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+50000,Vermont,6,"       Mining, quarrying, and oil and gas extraction ","1,180",0
+50000,Vermont,10,       Utilities ,"4,407",0
+50000,Vermont,11,       Construction ,"6,956",0.01
+50000,Vermont,12,       Manufacturing ,"13,531",0.01
+50000,Vermont,34,       Wholesale trade ,"8,706",0.01
+50000,Vermont,35,       Retail trade ,"15,730",0.02
+50000,Vermont,36,       Transportation and warehousing ,"3,027",0
+50000,Vermont,45,       Information , -   , -   
+50000,Vermont,51,       Finance and insurance ,"9,386",0.01
+50000,Vermont,56,       Real estate and rental and leasing ,"25,200",0.03
+50000,Vermont,60,"       Professional, scientific, and technical services ","14,611",0.01
+50000,Vermont,64,       Management of companies and enterprises ,"1,477",0
+50000,Vermont,65,       Administrative and support and waste management and remediation services ,"6,462",0.01
+50000,Vermont,69,       Educational services ,"4,013",0
+50000,Vermont,70,       Health care and social assistance ,"20,056",0.02
+50000,Vermont,76,"       Arts, entertainment, and recreation ","2,425",0
+50000,Vermont,79,       Accommodation and food services ,"11,725",0.01
+50000,Vermont,82,       Other services (except government and government enterprises) ,"4,433",0
+50000,Vermont,83,   Government and government enterprises ,"24,326",0.02
+51000,Virginia,1, All industry total ,"3,046,935",3.05
+51000,Virginia,2,   Private industries ,"2,543,470",2.54
+51000,Virginia,3,"       Agriculture, forestry, fishing and hunting ","9,021",0.01
+51000,Virginia,6,"       Mining, quarrying, and oil and gas extraction ","9,572",0.01
+51000,Virginia,10,       Utilities ,"41,698",0.04
+51000,Virginia,11,       Construction ,"149,058",0.15
+51000,Virginia,12,       Manufacturing ,"205,528",0.21
+51000,Virginia,34,       Wholesale trade ,"135,533",0.14
+51000,Virginia,35,       Retail trade ,"176,664",0.18
+51000,Virginia,36,       Transportation and warehousing ,"84,036",0.08
+51000,Virginia,45,       Information ,"134,205",0.13
+51000,Virginia,51,       Finance and insurance ,"171,788",0.17
+51000,Virginia,56,       Real estate and rental and leasing ,"425,191",0.43
+51000,Virginia,60,"       Professional, scientific, and technical services ","397,044",0.4
+51000,Virginia,64,       Management of companies and enterprises ,"78,046",0.08
+51000,Virginia,65,       Administrative and support and waste management and remediation services ,"107,333",0.11
+51000,Virginia,69,       Educational services ,"25,577",0.03
+51000,Virginia,70,       Health care and social assistance ,"202,771",0.2
+51000,Virginia,76,"       Arts, entertainment, and recreation ","25,335",0.03
+51000,Virginia,79,       Accommodation and food services ,"89,199",0.09
+51000,Virginia,82,       Other services (except government and government enterprises) ,"75,869",0.08
+51000,Virginia,83,   Government and government enterprises ,"503,466",0.5
+53000,Washington,1, All industry total ,"3,424,054",3.42
+53000,Washington,2,   Private industries ,"3,042,946",3.04
+53000,Washington,3,"       Agriculture, forestry, fishing and hunting ","35,857",0.04
+53000,Washington,6,"       Mining, quarrying, and oil and gas extraction ","2,273",0
+53000,Washington,10,       Utilities ,"28,155",0.03
+53000,Washington,11,       Construction ,"140,196",0.14
+53000,Washington,12,       Manufacturing ,"254,103",0.25
+53000,Washington,34,       Wholesale trade ,"164,351",0.16
+53000,Washington,35,       Retail trade ,"351,230",0.35
+53000,Washington,36,       Transportation and warehousing ,"106,071",0.11
+53000,Washington,45,       Information ,"574,600",0.57
+53000,Washington,51,       Finance and insurance ,"118,694",0.12
+53000,Washington,56,       Real estate and rental and leasing ,"446,333",0.45
+53000,Washington,60,"       Professional, scientific, and technical services ","264,108",0.26
+53000,Washington,64,       Management of companies and enterprises ,"52,081",0.05
+53000,Washington,65,       Administrative and support and waste management and remediation services ,"91,759",0.09
+53000,Washington,69,       Educational services ,"16,895",0.02
+53000,Washington,70,       Health care and social assistance ,"206,042",0.21
+53000,Washington,76,"       Arts, entertainment, and recreation ","25,310",0.03
+53000,Washington,79,       Accommodation and food services ,"97,614",0.1
+53000,Washington,82,       Other services (except government and government enterprises) ,"67,276",0.07
+53000,Washington,83,   Government and government enterprises ,"381,108",0.38
+54000,West Virginia,1, All industry total ,"425,901",0.43
+54000,West Virginia,2,   Private industries ,"363,636",0.36
+54000,West Virginia,3,"       Agriculture, forestry, fishing and hunting ","2,244",0
+54000,West Virginia,6,"       Mining, quarrying, and oil and gas extraction ","56,966",0.06
+54000,West Virginia,10,       Utilities ,"11,389",0.01
+54000,West Virginia,11,       Construction ,"17,214",0.02
+54000,West Virginia,12,       Manufacturing ,"35,700",0.04
+54000,West Virginia,34,       Wholesale trade ,"19,691",0.02
+54000,West Virginia,35,       Retail trade ,"31,418",0.03
+54000,West Virginia,36,       Transportation and warehousing ,"11,352",0.01
+54000,West Virginia,45,       Information ,"7,660",0.01
+54000,West Virginia,51,       Finance and insurance ,"16,264",0.02
+54000,West Virginia,56,       Real estate and rental and leasing ,"45,922",0.05
+54000,West Virginia,60,"       Professional, scientific, and technical services ","17,828",0.02
+54000,West Virginia,64,       Management of companies and enterprises ,"3,963",0
+54000,West Virginia,65,       Administrative and support and waste management and remediation services ,"11,160",0.01
+54000,West Virginia,69,       Educational services ,"2,137",0
+54000,West Virginia,70,       Health care and social assistance ,"48,186",0.05
+54000,West Virginia,76,"       Arts, entertainment, and recreation ","2,397",0
+54000,West Virginia,79,       Accommodation and food services ,"13,296",0.01
+54000,West Virginia,82,       Other services (except government and government enterprises) ,"8,848",0.01
+54000,West Virginia,83,   Government and government enterprises ,"62,265",0.06
+55000,Wisconsin,1, All industry total ,"1,813,195",1.81
+55000,Wisconsin,2,   Private industries ,"1,632,399",1.63
+55000,Wisconsin,3,"       Agriculture, forestry, fishing and hunting ","28,820",0.03
+55000,Wisconsin,6,"       Mining, quarrying, and oil and gas extraction ","3,200",0
+55000,Wisconsin,10,       Utilities ,"26,541",0.03
+55000,Wisconsin,11,       Construction ,"82,762",0.08
+55000,Wisconsin,12,       Manufacturing ,"293,242",0.29
+55000,Wisconsin,34,       Wholesale trade ,"113,147",0.11
+55000,Wisconsin,35,       Retail trade ,"117,184",0.12
+55000,Wisconsin,36,       Transportation and warehousing ,"57,032",0.06
+55000,Wisconsin,45,       Information ,"70,673",0.07
+55000,Wisconsin,51,       Finance and insurance ,"148,715",0.15
+55000,Wisconsin,56,       Real estate and rental and leasing ,"220,018",0.22
+55000,Wisconsin,60,"       Professional, scientific, and technical services ","91,878",0.09
+55000,Wisconsin,64,       Management of companies and enterprises ,"45,540",0.05
+55000,Wisconsin,65,       Administrative and support and waste management and remediation services ,"44,544",0.04
+55000,Wisconsin,69,       Educational services ,"18,591",0.02
+55000,Wisconsin,70,       Health care and social assistance ,"158,536",0.16
+55000,Wisconsin,76,"       Arts, entertainment, and recreation ","15,909",0.02
+55000,Wisconsin,79,       Accommodation and food services ,"53,522",0.05
+55000,Wisconsin,82,       Other services (except government and government enterprises) ,"42,545",0.04
+55000,Wisconsin,83,   Government and government enterprises ,"180,796",0.18
+56000,Wyoming,1, All industry total ,"205,993",0.21
+56000,Wyoming,2,   Private industries ,"174,284",0.17
+56000,Wyoming,3,"       Agriculture, forestry, fishing and hunting ", -   , -   
+56000,Wyoming,6,"       Mining, quarrying, and oil and gas extraction ","27,693",0.03
+56000,Wyoming,10,       Utilities ,"5,031",0.01
+56000,Wyoming,11,       Construction ,"12,735",0.01
+56000,Wyoming,12,       Manufacturing ,"16,051",0.02
+56000,Wyoming,34,       Wholesale trade ,"7,241",0.01
+56000,Wyoming,35,       Retail trade ,"13,138",0.01
+56000,Wyoming,36,       Transportation and warehousing ,"16,154",0.02
+56000,Wyoming,45,       Information , -   , -   
+56000,Wyoming,51,       Finance and insurance ,"6,893",0.01
+56000,Wyoming,56,       Real estate and rental and leasing ,"25,055",0.03
+56000,Wyoming,60,"       Professional, scientific, and technical services ","8,660",0.01
+56000,Wyoming,64,       Management of companies and enterprises ,"1,129",0
+56000,Wyoming,65,       Administrative and support and waste management and remediation services ,"4,234",0
+56000,Wyoming,69,       Educational services ,764,0
+56000,Wyoming,70,       Health care and social assistance ,"8,939",0.01
+56000,Wyoming,76,"       Arts, entertainment, and recreation ","1,991",0
+56000,Wyoming,79,       Accommodation and food services ,"8,503",0.01
+56000,Wyoming,82,       Other services (except government and government enterprises) ,"3,680",0
+56000,Wyoming,83,   Government and government enterprises ,"31,708",0.03
