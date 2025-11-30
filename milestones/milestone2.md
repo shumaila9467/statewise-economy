@@ -2,6 +2,8 @@
 
 Shumaila Abbasi
 
+Link: https://shumaila9467.github.io/statewise-economy/ 
+
 ## Goal
 
 My current goal is to build an interactive web-based economic dashboard that helps users explore how different industries contribute to each U.S. state's economy, and how these patterns evolve over time.
