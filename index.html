@@ -11,52 +11,87 @@
 
 <div class="container">
 
-    <h1> USA's State & Industry Economic Dashboard</h1>
+    <h1>USA's State & Industry Economic Dashboard</h1>
+
     <div class="subtitle">
-        An interactive exploration of industry earnings, state-level trends, and economic growth dynamics across the United States.
+        An interactive exploration of industry earnings, state-level trends, and economic growth dynamics across the United States.  
+        All figures in this dashboard are based on GDP data reported by the U.S. Bureau of Economic Analysis (BEA) <a href="https://www.bea.gov/data/gdp/gdp-state">https://www.bea.gov/data/gdp/gdp-state</a>
     </div>
 
-    <!-- SECTION 1 -->
     <div class="section">
         <h2>1. State-wise Earnings by Industry and Year</h2>
+
         <p>
-            This visualization compares industry earnings across all U.S. states for a selected year. 
-            Using the dropdown menus inside the chart, users can filter for specific states and years 
-            to explore how much each industry contributed to the local economy.
+            This visualization compares industry earnings across all U.S. states for a selected year.
+            Using the dropdown menus inside the chart, you can filter states and years to explore how
+            each industry contributes to the local economy.
+        </p>
+
+        <p>
+            Try selecting <strong>Mining &amp; Oil/Gas</strong> — it’s nearly invisible in many states but
+            becomes the largest sector in energy-heavy states like Texas.
+        </p>
+
+        <p>
+            <strong>Note:</strong> A zero in the dataset may represent missing or suppressed data rather
+            than an actual value of zero.
         </p>
 
         <iframe src="charts/chart1.html"></iframe>
     </div>
 
-    <!-- SECTION 2 -->
     <div class="section">
-        <h2>2. Industry Earnings Comparison </h2>
-        <p>
-            This visualization provides a deeper look into industry performance within a particular state for a chosen year.
-            It enables users to quickly gauge which industries dominate the state's economic activity and how earnings compare
-            across sectors.
+        <h2>2. Industry Earnings Comparison</h2>
 
+        <p>
+            This visualization takes a deeper look at industry performance within a selected state for a chosen year.
+            It allows users to quickly identify which sectors dominate the state's economy and how earnings compare
+            across industries.
+        </p>
+
+        <p>
+            For instance, <strong>Government</strong> is a major employer in states such as Virginia and Maryland,
+            while <strong>Finance &amp; Insurance</strong> plays a leading role in New York.
+        </p>
+
+        <p>
+            <strong>Note:</strong> A zero in the dataset may represent missing or suppressed data rather
+            than an actual value of zero.
         </p>
 
         <iframe src="charts/chart2.html"></iframe>
     </div>
 
-    <!-- SECTION 3 -->
     <div class="section">
-        <h2> Year-Over-Year Growth Trends (2019–2024) </h2>
+        <h2>3. Year-Over-Year Growth Trends (2019–2024)</h2>
+
         <p>
-            This interactive line chart highlights the growth trajectory of industries at the state level. 
-            By selecting a state and an industry, users can observe structural shifts, recovery patterns, 
-            
+            This interactive line chart highlights the growth trajectory of industries at the state level.
+            By selecting a state and an industry, you can explore structural shifts, recovery patterns,
+            and long-term performance.
+        </p>
+
+        <p>
+            Look at the <strong>Healthcare</strong> trend, especially during the COVID-19 period across states.
+        </p>
+
+        <p>
+            <strong>Retail Trade</strong> shows mixed performance in 2023–24, with sharp declines in states
+            such as New York, while others, like Georgia, experienced notable growth.
+        </p>
+
+        <p>
+            <strong>Note:</strong> Due to missing values in the dataset, some trend lines or comparisons
+            may not appear if the underlying figures were not reported.
         </p>
 
         <iframe src="charts/chart3.html"></iframe>
     </div>
 
     <footer>
-        <p>State & Industry Economic Dashboard. </p>
+        <p>State & Industry Economic Dashboard</p>
         Data Source: Bureau of Economic Analysis (BEA)<br>
-        Visualization Created Using Altair & Vega-Lite
+        Visualization Created Using Altair &amp; Vega-Lite
     </footer>
 
 </div>
